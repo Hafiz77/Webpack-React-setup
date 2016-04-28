@@ -21,7 +21,7 @@ npm install
 #After Install all packages run:  
 npm start  
 
-#Then webpack-dev-server will start. Go to your browser and go localhost:8080
+Then webpack-dev-server will start. Go to your browser and go localhost:8080
 
 
 You will See Hello world
